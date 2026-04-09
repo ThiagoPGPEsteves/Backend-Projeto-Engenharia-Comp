@@ -1,0 +1,39 @@
+# Diretórios de compilação (Ignora as mudanças indesejadas do build)
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de log
+*.log
+
+# Arquivos e pastas do Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# Arquivos de configuração de ambiente (Não deve ir para o repositório)
+appsettings.Development.json
+appsettings.Local.json
+
+# Arquivos de banco de dados locais (SQLite / LocalDB)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.mdf
+*.ldf
+
+# Arquivos de pacotes e NuGet
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Diretórios de publicação
+[Pp]ublish/
+[Oo]ut/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
