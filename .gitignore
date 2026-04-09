@@ -37,3 +37,11 @@ packages/
 # Arquivos do sistema operacional
 .DS_Store
 Thumbs.db
+
+FinanSmartAI.API/obj/FinanSmartAI.API.csproj.nuget.dgspec.json
+
+FinanSmartAI.API/obj/FinanSmartAI.API.csproj.nuget.g.props
+FinanSmartAI.API/obj/project.assets.json
+FinanSmartAI.API/obj/project.nuget.cache
+FinanSmartAI.API/obj/Debug/net9.0/FinanSmartAI.API.AssemblyInfo.cs
+FinanSmartAI.API/obj/Debug/net9.0/FinanSmartAI.API.AssemblyInfoInputs.cache

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fnUQ+WG5s2E=",
+  "dgSpecHash": "ukkqHJGlo7U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\heron\\source\\repos\\FinanSmartAI\\FinanSmartAI.Domain\\FinanSmartAI.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Thiago Esteves\\trabalhos\\Backend-Projeto-Engenharia-Comp\\FinanSmartAI.Domain\\FinanSmartAI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Esteves\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Thiago Esteves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\Thiago Esteves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

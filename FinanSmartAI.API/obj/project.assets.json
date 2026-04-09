@@ -5061,23 +5061,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\heron\\.nuget\\packages\\": {},
+    "C:\\Users\\Thiago Esteves\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\heron\\source\\repos\\FinanSmartAI\\FinanSmartAI.API\\FinanSmartAI.API.csproj",
+      "projectUniqueName": "C:\\Users\\Thiago Esteves\\trabalhos\\Backend-Projeto-Engenharia-Comp\\FinanSmartAI.API\\FinanSmartAI.API.csproj",
       "projectName": "FinanSmartAI.API",
-      "projectPath": "C:\\Users\\heron\\source\\repos\\FinanSmartAI\\FinanSmartAI.API\\FinanSmartAI.API.csproj",
-      "packagesPath": "C:\\Users\\heron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\heron\\source\\repos\\FinanSmartAI\\FinanSmartAI.API\\obj\\",
+      "projectPath": "C:\\Users\\Thiago Esteves\\trabalhos\\Backend-Projeto-Engenharia-Comp\\FinanSmartAI.API\\FinanSmartAI.API.csproj",
+      "packagesPath": "C:\\Users\\Thiago Esteves\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Thiago Esteves\\trabalhos\\Backend-Projeto-Engenharia-Comp\\FinanSmartAI.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\heron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Thiago Esteves\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5092,14 +5092,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\heron\\source\\repos\\FinanSmartAI\\FinanSmartAI.Application\\FinanSmartAI.Application.csproj": {
-              "projectPath": "C:\\Users\\heron\\source\\repos\\FinanSmartAI\\FinanSmartAI.Application\\FinanSmartAI.Application.csproj"
+            "C:\\Users\\Thiago Esteves\\trabalhos\\Backend-Projeto-Engenharia-Comp\\FinanSmartAI.Application\\FinanSmartAI.Application.csproj": {
+              "projectPath": "C:\\Users\\Thiago Esteves\\trabalhos\\Backend-Projeto-Engenharia-Comp\\FinanSmartAI.Application\\FinanSmartAI.Application.csproj"
             },
-            "C:\\Users\\heron\\source\\repos\\FinanSmartAI\\FinanSmartAI.Domain\\FinanSmartAI.Domain.csproj": {
-              "projectPath": "C:\\Users\\heron\\source\\repos\\FinanSmartAI\\FinanSmartAI.Domain\\FinanSmartAI.Domain.csproj"
+            "C:\\Users\\Thiago Esteves\\trabalhos\\Backend-Projeto-Engenharia-Comp\\FinanSmartAI.Domain\\FinanSmartAI.Domain.csproj": {
+              "projectPath": "C:\\Users\\Thiago Esteves\\trabalhos\\Backend-Projeto-Engenharia-Comp\\FinanSmartAI.Domain\\FinanSmartAI.Domain.csproj"
             },
-            "C:\\Users\\heron\\source\\repos\\FinanSmartAI\\FinanSmartAI.Infrastructure\\FinanSmartAI.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\heron\\source\\repos\\FinanSmartAI\\FinanSmartAI.Infrastructure\\FinanSmartAI.Infrastructure.csproj"
+            "C:\\Users\\Thiago Esteves\\trabalhos\\Backend-Projeto-Engenharia-Comp\\FinanSmartAI.Infrastructure\\FinanSmartAI.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Thiago Esteves\\trabalhos\\Backend-Projeto-Engenharia-Comp\\FinanSmartAI.Infrastructure\\FinanSmartAI.Infrastructure.csproj"
             }
           }
         }
@@ -5114,7 +5114,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -5170,6 +5170,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[9.0.11, 9.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5178,7 +5196,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
